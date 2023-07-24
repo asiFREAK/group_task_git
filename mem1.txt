@@ -1,1 +1,1 @@
-this is the local commit in members machine
+This is the local commit in member 1's systum
